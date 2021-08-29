@@ -1,0 +1,28 @@
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 100%;
+}
+td{
+    height: 70%;
+    text-align: center;
+    border: 1px solid
+    ;
+}
+h2{
+    background-color: aliceblue;
+    text-align: center;
+}
+h3{
+    background-color: aliceblue;
+    text-align: center;
+}
+.bg-color
+{ 
+    background: linear-gradient(to bottom right, #90b2ece1 43%, #ffffff 100%);  
+    
+}
+a{
+    font-size: larger;
+    background-color: rgb(163, 235, 92);
+}
